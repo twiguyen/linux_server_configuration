@@ -304,7 +304,7 @@ $ sudo service ssh restart
 
 ## Motivation
 
-This mini project was created for [Udacity](https://www.udacity.com/) and submitted for the **Full 
+This mini project was created for [Udacity](https://www.udacity.com/) and submitted for the **Full stack Web Developer Nanodegree**
 
 ## Contributors
 
