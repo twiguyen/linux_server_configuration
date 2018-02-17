@@ -31,7 +31,7 @@ $ sudo service ssh restart
 ```
 4. On Lightsail, click under Firewall and add "Custom" port, "2200".
 
-## 4) Configure UFC (Uncomplicated Fire)
+## 4) Configure UFC (Uncomplicated Firewall)
 
 This will allow incoming connections for SSH required by the Udacity project.
 
