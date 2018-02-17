@@ -310,5 +310,5 @@ This mini project was created for [Udacity](https://www.udacity.com/) and submit
 
 Jennifer Nguyen  
 Udacity  [[Website]](https://www.udacity.com/) 
-Udacity Forum Boards [[]](https://discussions.udacity.com/)
+Udacity Forum Boards [[Link]](https://discussions.udacity.com/)
 Stueken [[GitHub]](https://github.com/stueken/FSND-P5_Linux-Server-Configuration)
