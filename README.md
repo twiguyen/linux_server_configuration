@@ -16,6 +16,7 @@ Public IP(static): 35.172.18.23
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
+$ sudo apt-get dist-upgrade
 ```
 
 ## 3) Change SSH port and configure Lightsail firewall to allow it.
